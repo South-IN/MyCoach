@@ -19,6 +19,8 @@ Check out the deployed website: [MyCoach](https://mycoach.surge.sh)
 - [React.js](https://reactjs.org/)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Material-UI (MUI)](https://mui.com/)
+- [ExerciseDB API](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/)
+- [Youtube search and download API](https://rapidapi.com/h0p3rwe/api/youtube-search-and-download/)
 
 ## Getting Started
 
@@ -28,4 +30,17 @@ To run the project locally, follow these steps:
 
    ```bash
    git clone https://github.com/South-IN/MyCoach.git
+   ```
+
+2. Select the directory:
+   ```bash
+   cd MyCoach
+   ```
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
+4. Run app:
+   ```bash
+   npm run dev
    ```
